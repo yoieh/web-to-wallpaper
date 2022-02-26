@@ -1,5 +1,7 @@
 # web-to-wallpaper
 
+install pageres
+
 install feh
 
 add crontab

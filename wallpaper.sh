@@ -15,7 +15,7 @@ else
 fi
 
 cd $dir
-pageres https://$website/ $size
+pageres https://$website/ $size --darkMode --transparent --delay=7
 
 feh --xinerama-index 0 --bg-fill $dir/$website-$size.png --image-bg black
 
